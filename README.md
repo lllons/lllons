@@ -11,7 +11,7 @@
 
 New Zealand developer focused on **stuff** and **things** 
 
-I build tools and experiences.
+I build
 
 - [lllons.com](https://lllons.com)
 - Contact:
