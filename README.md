@@ -11,7 +11,6 @@
 
 New Zealand developer focused on **stuff** and **things** 
 
-I build
 
 - [lllons.com](https://lllons.com)
 - Contact:
@@ -20,7 +19,7 @@ I build
 
 ---
 
-### Tools & Technologies
+### I build in:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38"/>
