@@ -1,23 +1,10 @@
 <h1 align="center"> I'm Liam </h1>
-<h2 align="center">lllons</h2>
-
-<p align="center">
-  <a href="https://lllons.com"><strong>lllons.com</strong></a>
-</p>
-
----
-
-### About Me
 
 New Zealand developer focused on **stuff** and **things** 
-
-
 - [lllons.com](https://lllons.com)
 - Contact:
 - lllons@stpeters.school.nz
-
 ---
-
 ### I build in:
 
 <p align="left">
