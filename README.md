@@ -14,7 +14,6 @@ New Zealand developer focused on **stuff** and **things**
 
 - [lllons.com](https://lllons.com)
 - Contact:
-- a.liam.lonsdale@gmail.com
 - lllons@stpeters.school.nz
 
 ---
