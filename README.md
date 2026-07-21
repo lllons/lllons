@@ -1,22 +1,8 @@
-<h1 align="center"> I'm Liam </h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=160&section=header&text=lllons&fontSize=75&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-New Zealand developer focused on **stuff** and **things** 
-- [lllons.com](https://lllons.com)
-- Contact:
-- lllons@stpeters.school.nz
----
-### I build in:
+<div align="center">
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="38" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="38" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="38" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="38" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="38" height="38"/>
-</p>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=2563EB&center=true&vCenter=true&width=550&lines=Building+things.;Breaking+things.;Learning+things.;Shipping+projects.)](https://github.com/lllons)
 
-glaze my repos surely
+
