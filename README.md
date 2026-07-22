@@ -10,4 +10,4 @@ lllons@stpeters.school.nz
 ```
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&height=120&section=footer&animation=fadeIn" width="80%"/>
